@@ -28,13 +28,11 @@ import java.util.List;
 import org.apache.taverna.databundle.DataBundles;
 
 /**
- * Handles all recording of results as they are received by the {@link CommandLineResultListener} or
+ * Handles all recording of results as they are received by the {} or
  * when the workflow enactment has completed.
  * This includes saving as a Baclava Document, or storing individual results.
  *
  * @author Stuart Owen
- * @see BaclavaHandler
- * @see CommandLineResultListener
  */
 public class SaveResultsHandler {
 

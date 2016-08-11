@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.commons:com.springsource.org.apache.commons.csv:1.0.0.BUILD-20080106">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.csv/1.0.0.BUILD-20080106/com.springsource.org.apache.commons.csv-1.0.0.BUILD-20080106.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.csv/1.0.0.BUILD-20080106/com.springsource.org.apache.commons.csv-1.0.0.BUILD-20080106-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.csv/1.0.0.BUILD-20080106/com.springsource.org.apache.commons.csv-1.0.0.BUILD-20080106-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

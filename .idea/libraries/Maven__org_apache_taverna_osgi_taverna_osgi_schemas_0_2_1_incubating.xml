@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.taverna.osgi:taverna-osgi-schemas:0.2.1-incubating">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/taverna/osgi/taverna-osgi-schemas/0.2.1-incubating/taverna-osgi-schemas-0.2.1-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/taverna/osgi/taverna-osgi-schemas/0.2.1-incubating/taverna-osgi-schemas-0.2.1-incubating-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/taverna/osgi/taverna-osgi-schemas/0.2.1-incubating/taverna-osgi-schemas-0.2.1-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
